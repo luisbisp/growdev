@@ -26,7 +26,7 @@ body{
     margin-top: 1em;
 }
 .card-perfil{
-    background-color: #19def0 !important;
+    background-color: #1952f0 !important;
     box-shadow: 0px 0px 5px #f5f5f5;
 }
 
@@ -85,7 +85,7 @@ a {
 @media (min-width: 900px){
 
     .container-linear{
-        background: linear-gradient(to left, #fff 60%, #19def0 40%);
+        background: linear-gradient(to left, #fff 60%, #1952f0 40%);
     }
     .card-col{
         display: flex;
